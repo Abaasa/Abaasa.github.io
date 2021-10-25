@@ -1,0 +1,27 @@
+body {
+    padding-top: 56px;
+}
+
+.btn-primary{
+  background: red;
+  border: 2px solid red;
+  background: transparent;
+  color: red;
+}
+.btn-primary:hover{
+  background: red;
+  border: 2px solid;
+  color: white;
+}
+table,
+th,
+td{
+  border: 5px outset goldenrod;
+  border-collapse: collapse;
+}
+#table,
+th,
+td{
+  border: 2px solid goldenrod;
+//*  border-collapse: collapse;*//
+}
